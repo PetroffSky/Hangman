@@ -23,3 +23,7 @@ My version of game 'Hangman'.
             Удачи!
             
 Запуск игры производится через модуль start.py
+
+Требования:
+- установлен Python 3;
+- в среде Python установлен модуль PySimpleGUI: pip install PySimpleGUI.
